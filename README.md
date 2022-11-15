@@ -1,3 +1,3 @@
-# KpSC-pGEM
+# KpSC pan-metabolic model
 
-_Klebsiella pneumoniae_ species complex pan metabolic model
+_Klebsiella pneumoniae_ species complex reference pan-metabolic reconstruction.
