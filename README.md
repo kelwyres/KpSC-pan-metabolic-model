@@ -21,4 +21,6 @@ This repository contains files corresponding to the *Kp*SC reference pan-metabol
 
 ## Citation
 
-If you make use of this model, please cite 
+If you make use of this model, please cite:
+- Wyres KL, KpSC pan-metabolic model (2022), GitHub repository, https://github.com/kelwyres/KpSC-pan-metabolic-model
+- [Hawkey et al, 2022, *Genome Research*](https://www.genome.org/cgi/doi/10.1101/gr.276289.121)
