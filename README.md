@@ -21,4 +21,10 @@ This repository contains files corresponding to the *Kp*SC reference pan-metabol
 
 ## Citation
 
-If you make use of this model, please cite 
+If you make use of this model, please cite [preprint]
+
+## Contributors
+
+- Jane Hawkey (https://scholar.google.com/citations?user=4x4aT_oAAAAJ&hl=en&oi=ao)
+- Ben Vezina (https://scholar.google.com/citations?user=Rf9oh94AAAAJ&hl=en&oi=ao)
+- Kelly L. Wyres (https://scholar.google.com/citations?user=anwFM9oAAAAJ&hl=en&oi=sra)
