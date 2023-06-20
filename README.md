@@ -17,7 +17,7 @@ This repository contains files corresponding to the *Kp*SC-pan metabolic model. 
 | KpSC_pan-metabolic_model_v1.json   | *Kp*SC-pan v1 (.json)        |
 | KpSC_pan-metabolic_model_v1_nucl.fna      | Coding sequences of gene reaction rules (GPRs) from *Kp*SC-pan v1 (.fna)       |
 | KpSC_pan-metabolic_model_v1_prots.faa   | Protein sequences of gene reaction rules (GPRs) from *Kp*SC-pan v1 (.faa)        |
-
+| KpSC_pan_metabolic_model_v1_reaction_metadata.tsv | Metadata and external database IDs for the reactions from *Kp*SC-pan v1 (.tsv) | 
 
 ## Citation
 
