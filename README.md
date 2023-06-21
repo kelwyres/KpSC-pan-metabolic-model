@@ -21,7 +21,7 @@ This repository contains files corresponding to the *Kp*SC-pan metabolic model. 
 
 ## Citation
 
-If you make use of this model, please cite Vezinna et al. Bactabolize: A tool for high-throughput generation of bacterial strain-specific metabolic models *in prep*.
+If you make use of the KpSC pan metabolic model v1, please cite Bactabolize: A tool for high-throughput generation of bacterial strain-specific metabolic models, (2023), eLife, https://doi.org/10.7554/eLife.87406.1
 
 
 ## Contributors
