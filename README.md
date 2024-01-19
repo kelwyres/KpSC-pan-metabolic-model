@@ -2,7 +2,7 @@
 
 This repository hosts a *Klebsiella pneumoniae* Species Complex pan-metabolic model (*Kp*SC-pan)
 
-KpSC-pan v2 was constructed using the 507 strain-specific *Kp*SC genome-scale metabolic models described in [Cooper et al, 2023, *bioRxiv*]().
+KpSC-pan v2 was constructed using the 507 strain-specific *Kp*SC genome-scale metabolic models described in [Cooper et al, 2023, *bioRxiv*](https://www.biorxiv.org/content/10.1101/2023.12.20.572682v1).
 
 This model was designed as a reference model for input into [Bactabolize](https://github.com/kelwyres/Bactabolize), a pipeline for rapid construction of strain-specific genome scale metabolic models and phenotype prediction.
 
@@ -22,7 +22,7 @@ This repository contains files corresponding to the *Kp*SC-pan metabolic model. 
 
 ## Citation
 
-If you make use of the KpSC pan metabolic model v2, please cite A validated pangenome-scale metabolic model for the Klebsiella pneumoniae species complex, (2023), bioRxiv.
+If you make use of the KpSC pan metabolic model v2, please cite A validated pangenome-scale metabolic model for the Klebsiella pneumoniae species complex, (2023), bioRxiv, https://doi.org/10.1101/2023.12.20.572682.
 
 If you make use of the previous version (KpSC pan metabolic model v1), please cite Bactabolize: A tool for high-throughput generation of bacterial strain-specific metabolic models, (2023), eLife, https://doi.org/10.7554/eLife.87406.1.
 
