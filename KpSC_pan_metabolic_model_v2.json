@@ -178617,7 +178617,7 @@
 "metabolites":{
 "glc__D_e":-1.0
 },
-"lower_bound":-20,
+"lower_bound":-20.0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange",
@@ -190039,7 +190039,7 @@
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
-"gene_reaction_rule":"((K_africana_200023T_02421 or K_africana_200023T_02422) and (Klebsiella_pneumoniae_kppr1.contigset_00309 or Klebsiella_pneumoniae_KSB2_1C_01466))",
+"gene_reaction_rule":"((Klebsiella_pneumoniae_KSB2_1C_01466 or K_africana_200023T_02422) and (Klebsiella_pneumoniae_kppr1.contigset_00309 or K_africana_200023T_02421))",
 "annotation":{
 "bigg.reaction":[
 "ACACCT"
@@ -198826,7 +198826,7 @@
 "metabolites":{
 "2fbz_e":-1.0
 },
-"lower_bound":0,
+"lower_bound":0.0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "annotation":{
